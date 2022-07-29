@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Table from '../../coreView/common/table';
+import Table from '../../../coreView/common/table';
 
 export default function AcquaintancesView({acquaintances}) {
 
